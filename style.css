@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* IDs */
+
+#Video_Gallery{
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    border-width: 1px;
+    border-color: black;
+}
+
+/* Classes */
+
+.video-gallery-title{
+    size: 3vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
